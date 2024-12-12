@@ -1,0 +1,24 @@
+.orderDetails_container_details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.orderDetails_container_details_items{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+    margin: 20px 20px;
+    box-shadow: 1px 1px 8px black;
+    border-radius: 10px;
+    padding: 10px 50px;
+}
+.orderDetails_container_details_items img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid grey;
+}

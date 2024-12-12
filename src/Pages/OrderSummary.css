@@ -1,0 +1,43 @@
+.OrderSummary_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.OrderSummary_container_second {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 1px 1px 8px grey;
+  width: 50vw;
+  border-radius: 10px;
+  margin-top: 30px;
+  padding: 10px 10px;
+}
+.OrderSummary_container_second_item img {
+  width: 150px;
+  border-radius: 10px;
+  padding: 10px 10px;
+}
+.OrderSummary_container_second_item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.OrderSummary_container_second_button {
+  padding: 10px 10px;
+  font-weight: 600;
+  color: black;
+  background-color: rgb(100, 220, 100);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+ 
+}
+.OrderSummary_container_second_item_name{
+    color: grey;
+    font-weight: 600;
+}

@@ -1,0 +1,10 @@
+.Menu_conatiner{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(300px,1fr));
+    gap: 30px;
+    row-gap: 30px;
+    align-items: center;
+    text-align: center;
+    margin: 50px 60px;
+    
+}

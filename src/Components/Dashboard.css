@@ -1,0 +1,38 @@
+.dashboard_container{
+    width: 100vw;
+    height: 80vh;
+    text-align: center;
+}
+.dashboard_container img{
+    width: 1100px;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.dashboard_container_image{
+    position: relative;
+
+}
+.dashboard_container_text{
+    position: absolute;
+    top: 300px;
+    left: 190px;
+    text-align: left;
+}
+.dashboard_container_text p{
+    font-size: 50px;
+    color: white;
+    font-weight: 600;
+}
+.dashboard_container_text span{
+    color: white;
+    font-weight: 600;
+}
+.dashboard_container_title{
+    text-align: left;
+    margin-left: 100px;
+}
+.dashboard_container_title_text{
+    color: grey;
+    font-weight: 600;
+}

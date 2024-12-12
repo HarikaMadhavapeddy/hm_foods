@@ -1,0 +1,275 @@
+{
+    "slider":[
+        {
+            "menu_name": "Salad",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_1.png?alt=media&token=d284fc31-eabc-40d4-a348-c6e02e9eb631"
+        },
+        {
+            "menu_name": "Rolls",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_2.png?alt=media&token=c420ae68-c3ab-4032-9fcb-6d9fd6279a20"
+        },
+        {
+            "menu_name": "Deserts",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_3.png?alt=media&token=f7236da6-47f5-40be-91cd-0191354300ae"
+        },
+        {
+            "menu_name": "Sandwich",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_4.png?alt=media&token=be270a69-b8bb-4c6f-84e9-04908c8768ef"
+        },
+        {
+            "menu_name": "Cake",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_5.png?alt=media&token=bcd9bd61-a74a-45fa-9122-0db0b97caf74"
+        },
+        {
+            "menu_name": "Pure Veg",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_6.png?alt=media&token=a769be6c-0e02-4e18-83b3-24d8f2b1c984"
+        },
+        {
+            "menu_name": "Pasta",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_7.png?alt=media&token=119242af-2ebe-4d59-84b2-d78089ecef90"
+        },
+        {
+            "menu_name": "Noodles",
+            "menu_image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/menu_8.png?alt=media&token=8bb1b0ff-2fd0-4172-adaa-d40ffe9e959a"
+        }],
+        "food_items":[
+            {
+                "_id": "1",
+                "name": "Greek salad",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_1.png?alt=media&token=b44ce1c5-6573-48b5-b683-8eca7ff7a516",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Salad"
+            },
+            {
+                "_id": "2",
+                "name": "Veg salad",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_2.png?alt=media&token=971de0cf-3434-482d-8336-c5cbf351c42e",
+                "price": 18,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Salad"
+            }, {
+                "_id": "3",
+                "name": "Clover Salad",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_3.png?alt=media&token=abd799a1-2fba-449e-ac20-7f7c6ebc526a",
+                "price": 16,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Salad"
+            }, {
+                "_id": "4",
+                "name": "Chicken Salad",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_4.png?alt=media&token=7673429b-9189-475d-8366-533ab6a3873e",
+                "price": 24,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Salad"
+            }, {
+                "_id": "5",
+                "name": "Lasagna Rolls",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_5.png?alt=media&token=6cc9ae17-e6b2-4f39-84aa-b552355a1408",
+                "price": 14,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Rolls"
+            }, {
+                "_id": "6",
+                "name": "Peri Peri Rolls",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_6.png?alt=media&token=189ccbf0-f762-47c6-a01f-3f7c103b6b45",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Rolls"
+            }, {
+                "_id": "7",
+                "name": "Chicken Rolls",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_7.png?alt=media&token=649834a7-fb26-49cb-bcaf-4159c16215e6",
+                "price": 20,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Rolls"
+            }, {
+                "_id": "8",
+                "name": "Veg Rolls",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_8.png?alt=media&token=fbd5d6e4-c60d-4706-962b-1ae7b3c092be",
+                "price": 15,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Rolls"
+            }, {
+                "_id": "9",
+                "name": "Ripple Ice Cream",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_9.png?alt=media&token=4f6f178a-485d-4cf6-8881-32f185373dbd",
+                "price": 14,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Deserts"
+            }, {
+                "_id": "10",
+                "name": "Fruit Ice Cream",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_10.png?alt=media&token=af08a9d3-ce84-4563-ab13-0fabb4e477d1",
+                "price": 22,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Deserts"
+            }, {
+                "_id": "11",
+                "name": "Jar Ice Cream",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_11.png?alt=media&token=e8de1ea8-96e7-4281-b5d0-ea88bb43a0fa",
+                "price": 10,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Deserts"
+            }, {
+                "_id": "12",
+                "name": "Vanilla Ice Cream",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_12.png?alt=media&token=77520a4e-5e99-42ce-8fba-55b214f409b9",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Deserts"
+            },
+            {
+                "_id": "13",
+                "name": "Chicken Sandwich",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_13.png?alt=media&token=40f3641b-d0f0-40dd-a190-dd95ac36890b",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Sandwich"
+            },
+            {
+                "_id": "14",
+                "name": "Vegan Sandwich",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_14.png?alt=media&token=5794d87c-af84-4300-8fdd-9fb9677a3f74",
+                "price": 18,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Sandwich"
+            }, {
+                "_id": "15",
+                "name": "Grilled Sandwich",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_15.png?alt=media&token=af59e871-eb38-416b-a4f2-ee8b33da323b",
+                "price": 16,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Sandwich"
+            }, {
+                "_id": "16",
+                "name": "Bread Sandwich",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_16.png?alt=media&token=7c46023a-8982-4b7a-a908-96a036bbcde3",
+                "price": 24,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Sandwich"
+            }, {
+                "_id": "17",
+                "name": "Cup Cake",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_17.png?alt=media&token=c8642e93-e27c-4873-832e-39ff64287ae2",
+                "price": 14,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Cake"
+            }, {
+                "_id": "18",
+                "name": "Vegan Cake",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_18.png?alt=media&token=651839d1-2876-4ad6-9cf2-7a6fbc67461b",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Cake"
+            }, {
+                "_id": "19",
+                "name": "Butterscotch Cake",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_19.png?alt=media&token=d06f6b60-ec4c-4713-b54d-251a33c4ada0",
+                "price": 20,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Cake"
+            }, {
+                "_id": "20",
+                "name": "Sliced Cake",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_20.png?alt=media&token=7b2ab8ec-d2d3-438f-be64-fa3acccc196a",
+                "price": 15,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Cake"
+            }, {
+                "_id": "21",
+                "name": "Garlic Mushroom ",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_21.png?alt=media&token=221c58b4-9956-4d0b-ab79-c3514a2b15f3",
+                "price": 14,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pure Veg"
+            }, {
+                "_id": "22",
+                "name": "Fried Cauliflower",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_22.png?alt=media&token=fd8d2e9f-1bff-46a8-8291-860c5a4df909",
+                "price": 22,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pure Veg"
+            }, {
+                "_id": "23",
+                "name": "Mix Veg Pulao",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_23.png?alt=media&token=073268f5-9482-4db4-8009-e58250386adf",
+                "price": 10,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pure Veg"
+            }, {
+                "_id": "24",
+                "name": "Rice Zucchini",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_24.png?alt=media&token=6d9b875a-09ce-441a-a6a7-d1669f755aa5",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pure Veg"
+            },
+            {
+                "_id": "25",
+                "name": "Cheese Pasta",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_25.png?alt=media&token=9529f0e0-4526-4459-9600-6e03df968e5f",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pasta"
+            },
+            {
+                "_id": "26",
+                "name": "Tomato Pasta",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_26.png?alt=media&token=8a1373f7-1c27-4dde-9600-09ae7cd40f18",
+                "price": 18,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pasta"
+            }, {
+                "_id": "27",
+                "name": "Creamy Pasta",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_27.png?alt=media&token=8fb8a457-258a-48d8-a631-20505245bdb3",
+                "price": 16,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pasta"
+            }, {
+                "_id": "28",
+                "name": "Chicken Pasta",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_28.png?alt=media&token=41ee0258-3cab-4559-8ca7-35360b75b476",
+                "price": 24,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Pasta"
+            }, {
+                "_id": "29",
+                "name": "Buttter Noodles",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_29.png?alt=media&token=0d0618e5-7c40-4c6c-a727-682c39345095",
+                "price": 14,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Noodles"
+            }, {
+                "_id": "30",
+                "name": "Veg Noodles",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_30.png?alt=media&token=55edd1ba-79b5-43c9-8161-5c270ec60a3d",
+                "price": 12,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Noodles"
+            }, {
+                "_id": "31",
+                "name": "Somen Noodles",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_31.png?alt=media&token=934884a8-b955-4b4f-b8fd-69a04525fdf2",
+                "price": 20,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Noodles"
+            }, {
+                "_id": "32",
+                "name": "Cooked Noodles",
+                "image": "https://firebasestorage.googleapis.com/v0/b/hm-foods.appspot.com/o/food_32.png?alt=media&token=5c389026-17f8-4d7c-a427-d9faac113f97",
+                "price": 15,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Noodles"
+            },
+            {
+                "_id": "33",
+                "name": "Harika",
+                "image": "http://res.cloudinary.com/dyotg25sp/image/upload/v1732205969/xblmvrddparrwknchokh.png",
+                "price": 15,
+                "description": "Food provides essential nutrients for overall health and well-being",
+                "category": "Noodles"
+            }
+        ]
+}
