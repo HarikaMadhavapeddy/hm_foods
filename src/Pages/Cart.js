@@ -42,7 +42,7 @@ export default function Cart() {
       "pk_test_51QT3ejL1tCSuZkMjHN8GhER1wm6iifuNAnrDwGwEE8YMDsyelBENRI21TmNaaIFJlmaT9FvIQG7rQdDYJB8EWnb800giIxq6xV"
     );
     axios
-      .post("http://localhost:8080/create-payment-session", {
+      .post("https://hm-foods-backend.vercel.app/create-payment-session", {
         orderItems: items,
         orderId
       })
